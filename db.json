@@ -93,5 +93,19 @@
 					"postDate": "February 13, 2021",
 					"location": "Seattle, WA"            
         }       
+    ],
+	 "SeekersNetwork": [
+        {
+					"title": "Accounts Payable Clerk",
+					"industryCategory":"IT Services",
+					"companyName": "Adobe Systems, Inc.",
+					"city": "Seattle, WA"           
+        },
+				{
+					"title": "Accounts Payable Clerk",
+					"industryCategory":"Health Care Services",
+					"companyName": "Oracle Corp.",
+					"city": "Seattle, WA"             
+        }       
     ]
 }
