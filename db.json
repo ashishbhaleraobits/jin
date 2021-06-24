@@ -99,61 +99,71 @@
 					"title": "Accounts Payable Clerk",
 					"industryCategory":"IT Services",
 					"companyName": "Adobe Systems, Inc.",
-					"city": "Seattle, WA"           
+					"city": "Seattle, WA",
+					"status": "Pending"
         },
 				{
 					"title": "Accounts Payable Clerk",
 					"industryCategory":"Health Care Services",
 					"companyName": "Oracle Corp.",
-					"city": "Seattle, WA"             
+					"city": "Seattle, WA",
+					"status": "Responded"
         }   ,
 				{
 					"title": "Accounts Payable Clerk",
 					"industryCategory":"Health Care Services",
 					"companyName": "Oracle Corp.",
-					"city": "Seattle, WA"             
+					"city": "Seattle, WA",
+					"status": "Pending"
         }       ,
 				{
 					"title": "Accounts Payable Clerk",
 					"industryCategory":"Health Care Services",
 					"companyName": "Oracle Corp.",
-					"city": "Seattle, WA"             
+					"city": "Seattle, WA",
+					"status": "Responded"
         }       ,
 				{
 					"title": "Accounts Payable Clerk",
 					"industryCategory":"Health Care Services",
 					"companyName": "Oracle Corp.",
-					"city": "Seattle, WA"             
+					"city": "Seattle, WA",
+					"status": "Pending"
         }       ,
 				{
 					"title": "Accounts Payable Clerk",
 					"industryCategory":"Health Care Services",
 					"companyName": "Oracle Corp.",
-					"city": "Seattle, WA"             
+					"city": "Seattle, WA",
+					"status": "Responded"
         }       ,
 				{
 					"title": "Accounts Payable Clerk",
 					"industryCategory":"Health Care Services",
 					"companyName": "Oracle Corp.",
-					"city": "Seattle, WA"             
+					"city": "Seattle, WA",
+					"status": "Pending"
         }       ,
 				{
 					"title": "Accounts Payable Clerk",
 					"industryCategory":"Health Care Services",
 					"companyName": "Oracle Corp.",
-					"city": "Seattle, WA"             
+					"city": "Seattle, WA",
+					"status": "Responded"
         }       ,
 				{
 					"title": "Accounts Payable Clerk",
 					"industryCategory":"Health Care Services",
 					"companyName": "Oracle Corp.",
-					"city": "Seattle, WA"             
+					"city": "Seattle, WA",
+					"status": "Pending"
         }       ,
 				{
 					"title": "Accounts Payable Clerk",
 					"industryCategory":"Health Care Services",
 					"companyName": "Oracle Corp.",
-					"city": "Seattle, WA"             
+					"city": "Seattle, WA",
+					"status": "Responded"
         }           
     ],
 	 "Connections": [
