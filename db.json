@@ -170,63 +170,53 @@
 	{
 				"name": "Stephen Jackson",
 				"email":"stephen.jack@gmail.com",
-				"phone": "203.555.7813", 
-				"resume": ["<Link className='link' to={`${process.env.PUBLIC_URL}/supportresumedetails`} Public </Link>"]				
+				"phone": "203.555.7813"
 	},
 	  {
 				"name": "Emma Adams",
 				"email":"emmaadam@gmail.com",
-				"phone": "203.555.7813", 
-				"resume": ["<Link className='link' to={`${process.env.PUBLIC_URL}/supportresumedetails`} Public </Link>"]				         
-	},
+				"phone": "203.555.7813"
+	  },
 	  {
 				"name": "Robert Cena",
 				"email":"robcena@gmail.com",
-				"phone": "203.555.7813", 
-				"resume": ["<a href='https://php7.benchmarkit.solutions/jobInfonetwork/assets/images/sample.pdf' target='_blank'>Private-jane_resume.docx</a>"]				         
-	},
+				"phone": "203.555.7813"
+	  },
 	  {
 				"name": "Jessica Walt",
 				"email":"jessica.walt@gmail.com",
-				"phone": "203.555.7813", 
-				"resume": ["<Link className='link' to={`${process.env.PUBLIC_URL}/supportresumedetails`} Public </Link>"]
-	},
+				"phone": "203.555.7813"
+	  },
 	  {
 				"name": "Steve Allison",
 				"email":"steve.allison@gmail.com",
-				"phone": "203.555.7813", 
-				"resume": ["<a href='https://php7.benchmarkit.solutions/jobInfonetwork/assets/images/sample.pdf' target='_blank'>Private-jane_resume.docx</a>"]
-	},
+				"phone": "203.555.7813"
+	  },
 	 {
 				"name": "Stephen Jackson",
 				"email":"stephen.jack@gmail.com",
-				"phone": "203.555.7813", 
-				"Resume": ["<Link className='link' to={`${process.env.PUBLIC_URL}/supportresumedetails`} Public </Link>"]
-	},
+				"phone": "203.555.7813"
+	 },
 	  {
 				"name": "Emma Adams",
 				"email":"emmaadam@gmail.com",
-				"phone": "203.555.7813", 
-				"resume": ["<Link className='link' to={`${process.env.PUBLIC_URL}/supportresumedetails`} Public </Link>"]
-	},
+				"phone": "203.555.7813"
+	  },
 	  {
 				"name": "Robert Cena",
 				"email":"robcena@gmail.com",
-				"phone": "203.555.7813", 
-				"resume": ["<a href='https://php7.benchmarkit.solutions/jobInfonetwork/assets/images/sample.pdf' target='_blank'>Private-jane_resume.docx</a>"]
-	},
+				"phone": "203.555.7813"
+	  },
 	  {
 				"name": "Jessica Walt",
 				"email":"jessica.walt@gmail.com",
-				"phone": "203.555.7813", 
-				"resume": ["<Link className='link' to={`${process.env.PUBLIC_URL}/supportresumedetails`} Public </Link>"]
-	},
+				"phone": "203.555.7813"
+	  },
 	  {
 				"name": "Steve Allison",
 				"email":"steve.allison@gmail.com",
-				"phone": "203.555.7813", 
-				"resume": ["<a href='https://php7.benchmarkit.solutions/jobInfonetwork/assets/images/sample.pdf' target='_blank'>Private-jane_resume.docx</a>"]
-	}
+				"phone": "203.555.7813"
+	  }
 			 
 ]
 }
