@@ -225,7 +225,7 @@
 				"name": "Steve Allison",
 				"email":"steve.allison@gmail.com",
 				"phone": "203.555.7813", 
-				"resume": [<a href='https://php7.benchmarkit.solutions/jobInfonetwork/assets/images/sample.pdf' target='_blank'>Private-jane_resume.docx</a>"]
+				"resume": ["<a href='https://php7.benchmarkit.solutions/jobInfonetwork/assets/images/sample.pdf' target='_blank'>Private-jane_resume.docx</a>"]
 	}
 			 
 ]
